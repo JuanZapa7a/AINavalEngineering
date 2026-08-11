@@ -8,7 +8,7 @@ Asignatura optativa, 6 ECTS, 2º curso, 1er cuatrimestre. Código `232209009`. [
 
 La idea central de la asignatura es que teoría y práctica formen un todo cohesionado: cada clase de 2 horas introduce un concepto y lo aplica de inmediato sobre un **dataset real** de ingeniería naval y oceánica (sonar, consumo de combustible, hidrodinámica de cascos, inspección submarina, oleaje ECMWF, rutas históricas de barcos, batimetría real), en vez de separar "teoría" y "prácticas" en bloques distintos.
 
-Cada notebook (`NB01`–`NB21`) es autocontenido y corresponde a una sesión real de clase. No se elimina material histórico del repositorio: los notebooks `Prac_*`, `CS*` y `NB1`–`NB3` son el material original del curso, conservado como referencia.
+Cada notebook (`NB01`–`NB21`) es autocontenido y corresponde a una sesión real de clase.
 
 ## Horario
 
@@ -77,7 +77,3 @@ Tras `NB21`, las 5 sesiones restantes del calendario son de **trabajo supervisad
 ## Datasets reales utilizados
 
 Ningún dataset de este curso es inventado para la ocasión. Entre otros: Sonar Mines vs. Rocks (UCI), Yacht Hydrodynamics (UCI), Ship Fuel Consumption and CO2 Emissions (Kaggle), LIACi (SINTEF Ocean, inspección visual submarina de cascos), ERA5/ECMWF (viento y oleaje, vía Copernicus CDS), CLIWOC (bitácoras históricas de navegación), GMRT (batimetría global, Lamont-Doherty), y datos reales de boyas oceánicas NOAA NDBC para el proyecto final.
-
-## Material original
-
-Los notebooks `Prac_01`–`Prac_13`, `CS1`–`CS6` y `NB1`–`NB3` son el contenido original del curso, previo a este rediseño, conservado sin modificar.
