@@ -77,3 +77,9 @@ Tras `NB21`, las 5 sesiones restantes del calendario son de **trabajo supervisad
 ## Datasets reales utilizados
 
 Ningún dataset de este curso es inventado para la ocasión. Entre otros: Sonar Mines vs. Rocks (UCI), Yacht Hydrodynamics (UCI), Ship Fuel Consumption and CO2 Emissions (Kaggle), LIACi (SINTEF Ocean, inspección visual submarina de cascos), ERA5/ECMWF (viento y oleaje, vía Copernicus CDS), CLIWOC (bitácoras históricas de navegación), GMRT (batimetría global, Lamont-Doherty), y datos reales de boyas oceánicas NOAA NDBC para el proyecto final.
+
+## Profesor
+
+**Juan Francisco Zapata Pérez**
+Email: [juan.zapata@upct.es](mailto:juan.zapata@upct.es)
+Página personal: [personas.upct.es/perfil/juan.zapata](https://personas.upct.es/perfil/juan.zapata)
