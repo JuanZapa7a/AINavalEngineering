@@ -16,7 +16,7 @@ Cada notebook (`NB01`–`NB21`) es autocontenido y corresponde a una sesión rea
 |---|---|
 | Días | Martes y Miércoles |
 | Horario | 09:00 – 10:50 |
-| Aula | N.2.2 — Aula de Informática (2ª planta, Aulario General B) |
+| Aula | Aula de Informática |
 | Cuatrimestre | 1er cuatrimestre, curso 2026/2027 |
 | Inicio periodo docente | 8 de septiembre de 2026 |
 | Fin periodo docente | 22 de diciembre de 2026 |
