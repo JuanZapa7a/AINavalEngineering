@@ -16,7 +16,7 @@ Cada notebook (`NB01`–`NB21`) es autocontenido y corresponde a una sesión rea
 |---|---|
 | Días | Martes y Miércoles |
 | Horario | 09:00 – 10:50 |
-| Aula | N.2.2 (2ª planta, Aulario General B) |
+| Aula | N.2.2 — Aula de Informática (2ª planta, Aulario General B) |
 | Cuatrimestre | 1er cuatrimestre, curso 2026/2027 |
 | Inicio periodo docente | 8 de septiembre de 2026 |
 | Fin periodo docente | 22 de diciembre de 2026 |
@@ -81,5 +81,7 @@ Ningún dataset de este curso es inventado para la ocasión. Entre otros: Sonar 
 ## Profesor
 
 **Juan Francisco Zapata Pérez**
+
 Email: [juan.zapata@upct.es](mailto:juan.zapata@upct.es)
+
 Página personal: [personas.upct.es/perfil/juan.zapata](https://personas.upct.es/perfil/juan.zapata)
