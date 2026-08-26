@@ -36,11 +36,16 @@ Las fechas de los parciales se pactan con el alumnado dentro del horario docente
 
 ## Contenidos — índice de notebooks
 
-### Bloque 1-2: Introducción a la IA y Machine Learning
+### Bloque 1: Introducción a la IA
 
 | NB | Título |
 |---|---|
 | [`NB01`](NB01_History_of_AI_and_Applications_in_Naval_Engineering.ipynb) | History of AI and Applications in Naval Engineering |
+
+### Bloque 2: Machine Learning
+
+| NB | Título |
+|---|---|
 | [`NB02`](NB02_Python_and_Colab_Essentials_First_Naval_Dataset.ipynb) | Python and Colab Essentials — First Naval Dataset |
 | [`NB03`](NB03_NumPy_Array_Mechanics_Dtypes_Indexing_and_Views.ipynb) | NumPy Array Mechanics — dtypes, Indexing, and Views |
 | [`NB04`](NB04_NumPy_for_Engineering_Computation_Vectors_Matrices_and_Linear_Algebra.ipynb) | NumPy for Engineering Computation — Vectors, Matrices, Linear Algebra |
