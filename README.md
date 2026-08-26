@@ -77,7 +77,7 @@ Las fechas de los parciales se pactan con el alumnado dentro del horario docente
 | [`NB20`](NB20_Case_Study_GMRT_Bathymetry_Interpolation.ipynb) | Case Study: GMRT Bathymetry — Seafloor Depth Interpolation |
 | [`NB21`](NB21_Individual_Project_Launch_Rubric_and_Defense_Template.ipynb) | Individual Project Launch — Rubric and Defense Template |
 
-Tras `NB21`, las 5 sesiones restantes del calendario son de **trabajo supervisado en clase**: el alumnado avanza en su proyecto individual (`Final_Project_Wave_Height_Forecasting_STARTER.ipynb`) con un checkpoint revisado cada sesión, en vez de recibir contenido nuevo — así se cumple el requisito de la guía docente de que el 40% final sea un caso "no visto previamente en clase". El calendario cierra con 2 sesiones de defensa oral.
+Tras `NB21`, las 7 sesiones restantes del calendario son de **trabajo supervisado en clase**: el alumnado avanza en su proyecto individual (`Final_Project_Wave_Height_Forecasting_STARTER.ipynb`) con un checkpoint revisado cada sesión, en vez de recibir contenido nuevo — así se cumple el requisito de la guía docente de que el 40% final sea un caso "no visto previamente en clase". El calendario cierra con 2 sesiones de defensa oral: 21 (`NB01`-`NB21`) + 7 de trabajo supervisado + 2 de defensa = 30 sesiones, salvo que algún festivo caiga en martes o miércoles y desplace el calendario.
 
 ## Datasets reales utilizados
 
