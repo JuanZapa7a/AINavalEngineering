@@ -77,7 +77,9 @@ Las fechas de los parciales se pactan con el alumnado dentro del horario docente
 | [`NB20`](NB20_Case_Study_GMRT_Bathymetry_Interpolation.ipynb) | Case Study: GMRT Bathymetry — Seafloor Depth Interpolation |
 | [`NB21`](NB21_Individual_Project_Launch_Rubric_and_Defense_Template.ipynb) | Individual Project Launch — Rubric and Defense Template |
 
-Tras `NB21`, las 7 sesiones restantes del calendario son de **trabajo supervisado en clase**: el alumnado avanza en su proyecto individual (`Final_Project_Wave_Height_Forecasting_STARTER.ipynb`) con un checkpoint revisado cada sesión, en vez de recibir contenido nuevo — así se cumple el requisito de la guía docente de que el 40% final sea un caso "no visto previamente en clase". El calendario cierra con 2 sesiones de defensa oral: 21 (`NB01`-`NB21`) + 7 de trabajo supervisado + 2 de defensa = 30 sesiones, salvo que algún festivo caiga en martes o miércoles y desplace el calendario.
+Tras `NB21`, las 7 sesiones restantes del calendario son de **trabajo supervisado en clase**: el alumnado avanza en su proyecto individual (`Final_Project_Wave_Height_Forecasting_STARTER.ipynb`) con un checkpoint revisado cada sesión, en vez de recibir contenido nuevo — así se cumple el requisito de la guía docente de que el 40% final sea un caso "no visto previamente en clase". El calendario cierra con 2 sesiones de defensa oral: 21 (`NB01`-`NB21`) + 7 de trabajo supervisado + 2 de defensa = 30 sesiones sobre el calendario nominal.
+
+Según el [calendario académico oficial UPCT 2026/2027](https://lex.upct.es/download/3f76021c-e7b6-434f-aca2-f96a0246f987), dentro del periodo docente del 1er cuatrimestre (7/9/2026 – 22/12/2026) hay un único festivo que coincide con un día de clase: el **martes 8 de diciembre de 2026 (Inmaculada Concepción)**. Ningún otro festivo, puente o festividad de centro cae en martes o miércoles en ese rango. El total real de sesiones en el curso 2026/2027 es por tanto **29**, salvo que esa sesión se recupere de otro modo.
 
 ## Datasets reales utilizados
 
