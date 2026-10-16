@@ -63,7 +63,7 @@ Las fechas de los parciales se pactan con el alumnado dentro del horario docente
 | [`NB11`](NB11_Neural_Network_Fundamentals_First_PyTorch_Model.ipynb) | Neural Network Fundamentals — First PyTorch Model |
 | [`NB12`](NB12_Training_Deep_Networks_Properly.ipynb) | Training Deep Networks Properly |
 | [`NB13`](NB13_Convolutional_Neural_Networks_Underwater_Hull_Images.ipynb) | Convolutional Neural Networks — Underwater Hull Images |
-| [`NB14`](NB14_Sequence_Models_RNN_LSTM_Real_Fuel_Forecasting.ipynb) | Sequence Models (RNN/LSTM) — Real Fuel Forecasting |
+| [`NB14`](NB14_Sequence_Models_RNN_LSTM_Real_Fuel_Forecasting.ipynb) | Sequence Models (RNN/LSTM) — Real Tide Forecasting |
 | [`NB15`](NB15_Transfer_Learning_Feature_Extraction_vs_Fine_Tuning.ipynb) | Transfer Learning — Feature Extraction vs Fine-Tuning |
 | [`NB16`](NB16_Autoencoders_and_Anomaly_Detection_Real_Fuel_Data.ipynb) | Autoencoders and Anomaly Detection — Real Fuel Data |
 | [`NB17`](NB17_Choosing_an_Architecture_Closing_Deep_Learning.ipynb) | Choosing an Architecture — Closing Deep Learning |
